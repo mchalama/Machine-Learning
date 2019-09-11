@@ -1,0 +1,13 @@
+Person,Children,Income,Country,HoursofWork,Occupation,Worktype
+Harish,4,60000,India,36,doctor,fulltime
+Ishaan,1,95000,USA,40,photographer,fulltime
+Roshan,2,75000,Australia,20,doctor,parttime
+Kaushal,1,35000,India,20,engineer,parttime
+Sunil,3,20000,England,15,business,parttime
+Srikanth,2,35000,Ireland,18,business,parttime
+Subbu,4,75000,Sweden,35,Teacher,fulltime
+Mahesh,3,80000,Canada,28,Clerk,fultime
+Mohan,2,35000,USA,33,engineer,fulltime
+Ramesh,6,45000,SouthAfrica,19,business,parttime
+Teja,3,62000,Holland,36,cook,fulltime
+Surya,2,54000,Nigeria,28,Professor,parttime
