@@ -1,0 +1,41 @@
+,Distance,roadORtrack,Place,Time,Date
+1,0.1,track,Athens,0.162833333,6/14/2005
+2,0.15,track,Cassino,0.246666667,5/22/1983
+3,0.2,track,Atlanta,0.322,8/1/1996
+4,0.3,track,Pretoria,0.514166667,3/24/2000
+5,0.4,track,Seville,0.719666667,8/26/1999
+6,0.5,track,Busto Arsizio,1.001333333,5/26/1984
+7,0.6,track,Santa Monica,1.2135,5/24/1986
+8,0.8,track,Cologne,1.685166667,8/24/1997
+9,1,track,Rieti,2.199333333,9/5/1999
+10,1.5,track,Rome,3.433333333,7/14/1998
+11,1.609,track,Rome,3.718833333,7/7/1999
+12,2,track,Berlin,4.7465,9/7/1999
+13,3,track,Rieti,7.3445,9/1/1996
+14,3.218,track,Hechtel,7.976833333,7/19/1997
+15,5,track,Hengelo,12.6225,5/31/2004
+16,10,track,Brussels,26.29216667,8/26/2005
+17,15,track,La Fleche,42.56666667,3/30/1991
+18,20,track,La Fleche,56.92666667,3/30/1991
+19,25,track,Christchurch,73.93,3/22/1981
+20,30,track,Christchurch,89.31333333,3/22/1981
+21,50,track,Timperley,168.1,6/7/1980
+22,64.36,track,London,228.5833333,10/16/1982
+23,100,track,London,370.3333333,10/28/1978
+24,160.9,track,London,688.05,10/20/2002
+25,5,road,Carlsbad,13,3/26/2000
+26,6.436,road,Groningen,17.16666667,10/9/2005
+27,8,road,Dublin,22.03333333,5/2/1993
+28,8.045,road,New Orleans,22.08333333,3/20/1993
+29,10,road,Doha,27.03333333,12/11/2002
+30,12,road,Evansville,33.51666667,5/10/1997
+31,15,road,Tilburg,41.36666667,9/4/2005
+32,16.09,road,Tilburg,44.4,9/4/2005
+33,20,road,Phoenix-Tempe,55.8,1/15/2006
+34,25,road,Alphen aan den Rijn,71.61666667,3/12/2006
+35,30,road,Kumamoto,88,2/27/2005
+36,32.18,road,Chicago,95.36666667,10/20/1985
+37,50,road,Claremont-Kirstenbosch,163.6333333,4/12/1988
+38,100,road,Lake Saroma,373.55,6/21/1998
+39,160.9,road,New York,706.6166667,5/8/1984
+40,290.221,road,Basle,1440,5/3/1998
